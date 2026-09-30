@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/api.api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/api.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/api.api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api/api.api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config/api.config.iml" filepath="$PROJECT_DIR$/.idea/modules/config/api.config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config/api.config.test.iml" filepath="$PROJECT_DIR$/.idea/modules/config/api.config.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/model/api.model.iml" filepath="$PROJECT_DIR$/.idea/modules/model/api.model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/model/api.model.test.iml" filepath="$PROJECT_DIR$/.idea/modules/model/api.model.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests/api.tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/tests/api.tests.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests/api.tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/tests/api.tests.test.iml" />
+    </modules>
+  </component>
+</project>

@@ -19,6 +19,8 @@ tasks.test {
     testLogging {
         showStandardStreams = true
     }
+    systemProperty("selenide.headless", System.getProperty("selenide.headless", "true"))
+
 }
 repositories {
     mavenCentral()
